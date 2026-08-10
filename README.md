@@ -1,8 +1,9 @@
-# 📊 Project Title
+# Project Title
 ## E-Commerce & Retail Industry : Data Analysis
-# 🎯 Objective
+# Objective
 To carry out Exploratory data analysis on an E-Commerce dataset and derive business insights from it.
-# 🔄 Overall Project Phases
+# Overall Project Phases
+
 ## Phase 1: Data Collection
 In this phase, we will perform the following:
 - Collect the dataset
@@ -65,7 +66,7 @@ In this phase, we will perform the following:
 In this phase, we will perform the following:
 - Summarize all findings
 - Explain how business insights can be used to improve business decisions
-# 🛠️ Tools & Technologies
+# Tools & Technologies
 - Python
 - Pandas
 - Numpy
@@ -73,7 +74,7 @@ In this phase, we will perform the following:
 - Seaborn
 - Jupyter Notebook
 # 👩‍💻 Project By
+
 Asliya CP
 
 Course: Data Analytics
-
