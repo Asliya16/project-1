@@ -73,7 +73,7 @@ In this phase, we will perform the following:
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
-# 👩‍💻 Project By
+# Project By
 
 Asliya CP
 
