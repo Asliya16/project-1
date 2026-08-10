@@ -24,7 +24,7 @@ Activities:
 -Checking for incorrect data types
 -Preparing the data for analysis
 
-#Phase 3: Data Transformation
+# Phase 3: Data Transformation
 In this stage, the data was transformed to prepare it for analysis.
 Activities:
 -Transformation of required columns
@@ -32,9 +32,9 @@ Activities:
 -Creation of relevant variables
 -Preparation of quantitative and categorical data
 
-#Phase 4: Exploratory Data Analysis
+# Phase 4: Exploratory Data Analysis
 Exploratory Data Analysis was done to understand the data distribution, relationships, trends, etc.
- 4.1: Univariate Analysis
+# 4.1: Univariate Analysis
 Univariate analysis was performed to examine the distribution of individual variables.
 Various plots used are listed below:
 -Count Plot
@@ -42,7 +42,7 @@ Various plots used are listed below:
 -Box Plot
 -Distribution Plot
 -Descriptive Statistics, etc
-4.2: Bivariate Analysis
+# 4.2: Bivariate Analysis
 Bivariate analysis was performed to examine the relationship between two variables.
 Various plots used are listed below:
 -Bar Plot
@@ -50,7 +50,7 @@ Various plots used are listed below:
 -Line plot
 -Box plot
 -Heatmap
-4.3: Multivariate Analysis
+# 4.3: Multivariate Analysis
 Multivariate analysis was performed to examine the relationship between multiple variables.
 Analysis includes:
 -Trends
@@ -58,7 +58,7 @@ Analysis includes:
 -Business-related analysis
 -Correlation analysis between numerical variables
 
-#Phase 5: Data Visualization
+# Phase 5: Data Visualization
 Various plots and graphs were used for visualization.
 These are mentioned below:
 -Count Plot
@@ -70,7 +70,7 @@ These are mentioned below:
 -Heatmap
 -Distribution Plot
 
-#Phase 6: Analysis Report
+# Phase 6: Analysis Report
 The analysis report includes insights on key areas of an E-Commerce business.
 These are listed below:
  -Customer Behaviour Analysis
@@ -96,7 +96,7 @@ The project also suggests improving delivery procedures, rewarding loyal custome
 
 The E-Commerce dataset was analyzed using various Python-powered EDA techniques to identify patterns and gain business insights. The analysis included sales trend analysis, customer rating analysis, category analysis, product analysis, and correlation analysis. These insights can be used to make informed business decisions in areas such as sales, products, and customer service.
 
-Tools & Technologies
+# Tools & Technologies
 -Python
 -Pandas
 -NumPy
@@ -104,7 +104,7 @@ Tools & Technologies
 -Seaborn
 -Jupyter Notebook
 
-Project By
+# Project By
 
 Asliya CP
 
