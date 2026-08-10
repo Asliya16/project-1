@@ -2,7 +2,7 @@
 ## E-Commerce & Retail Industry : Data Analysis
 # Objective
 To carry out Exploratory data analysis on an E-Commerce dataset and derive business insights from it.
-# Overall Project Phases
+# Project Phases
 
 ## Phase 1: Data Collection
 In this phase, we will perform the following:
