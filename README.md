@@ -124,6 +124,7 @@ It also highlights opportunities for improvement and gives final recommendations
 The conclusion highlights the importance of this study to understand customer behaviour and make informed decisions regarding products, sales, and other factors.
 
 # Tools & Technologies
+
 -Python
 -Pandas
 -NumPy
